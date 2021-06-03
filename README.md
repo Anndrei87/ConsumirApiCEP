@@ -1,6 +1,6 @@
 ## ConsumirApiCEP :earth_americas: :books:
 <div>
-  Projeto feito para consumir a API ViaCep(https://viacep.com.br/).
+  Projeto feito para consumir a API ViaCep (https://viacep.com.br/).
 </div>
 
 
